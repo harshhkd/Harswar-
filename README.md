@@ -2,7 +2,9 @@
 Harswar is a ecommerce website using html and css.
 
 Visit this project by click below.
-<a href="harswar.netlify.app">Click</a>
+ <ahref="https://harswar.netlify.app/"
+              target="_blank">Click
+            </a>
 
 
 Thanku☺️
